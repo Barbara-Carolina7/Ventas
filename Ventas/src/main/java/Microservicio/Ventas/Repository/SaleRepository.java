@@ -1,4 +1,5 @@
-package Microservicio.Ventas.repository;
+package Microservicio.Ventas.Repository;
+
 
 import Microservicio.Ventas.model.Sale;
 import org.springframework.data.jpa.repository.JpaRepository;
